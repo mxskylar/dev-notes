@@ -1,1 +1,1 @@
-Notes &amp; flashcards on all things development
+[Obsidian](https://obsidian.md/) notes & [Anki](https://apps.ankiweb.net/) flashcards about all things development.
