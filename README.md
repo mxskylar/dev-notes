@@ -1,1 +1,1 @@
-[Obsidian](https://obsidian.md/) notes & [Anki](https://apps.ankiweb.net/) flashcards about all things development.
+Development runbooks and notes taken in [Obsidian](https://obsidian.md/).
